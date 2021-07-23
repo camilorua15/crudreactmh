@@ -48,7 +48,7 @@ const Listadodenombres = () => {
 
   return (
     <div>
-      <h2>Aplicación CRUD BASICA</h2>
+      <h2>Aplicación CRUD BASICA por Camilo Rúa</h2>
       <div className="row">
         <div className="col">
           <h2>Listado de nombres</h2>
